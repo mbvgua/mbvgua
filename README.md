@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mbugua Douglas</h1>
-<h3 align="center">a passionate developer</h3>
 
 - 👀 I'm passionate about backend development and the linux ecosystem.
 
