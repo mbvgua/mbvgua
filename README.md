@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mbugua Douglas</h1>
 <h3 align="center">a passionate developer</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 👀 I'm passionate about backend development and the linux ecosystem.
 
-- 👨‍💻 All of my projects are available at [https://github.com/mbuguadouglas](https://github.com/mbuguadouglas)
+- 🌱 I’m currently learning **Flask** and **IoT**. Additionally, I have taken a keen interest in **Data Science** and **Machine Learning**
 
-- 💬 Ask me about **Python, Linux, IoT**
+- 👨‍💻 I'm eager to collaborate on projects I could use to develop and grow my skills as a programmer, most especially using Python or in the Open Source Community.
 
-- ⚡ Fun fact **The grass is always greener on the outfield :)**
+- ⚡ Fun fact **Everything you've ever wanted lies on the other side of consistency!**
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
