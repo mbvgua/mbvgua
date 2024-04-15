@@ -1,6 +1,8 @@
 <h2 align="left">Hi there 👋 </h2>
 <p> I'm Douglas, a Pythonista in Nairobi 🇰🇪 currently building better technology the open source way</p>
 
+<h2 align="left"> Hi there 👋 </h2>
+<p> I'm Douglas, a Pythonista in Nairobi 🇰🇪 currently building better technology the open source way</p>
 
 <h3 align="left"> ⚒️Languages and Tools: </h3>
 <p align="left">
