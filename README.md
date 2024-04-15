@@ -20,10 +20,10 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 
-</p>
+</p> -->
 
 
 <h3 align="left"> 🏆My Stats </h3>
 
 <a href="https://github.com/mbuguadouglas/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbuguadouglas&layout=compact&langs_count=8&card_width=320&theme=radical" /> -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbuguadouglas&layout=compact&langs_count=8&card_width=320&theme=radical" /> 
