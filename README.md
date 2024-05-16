@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋 </h2>
 
-<p> I'm a Pythonista currently building better technologies the open source way</p>
+<p> I'm a Pythonista currently building better solutions the open source way</p>
 
 
 <!-- <h3 align="left"> ⚒️Languages and Tools: </h3>
