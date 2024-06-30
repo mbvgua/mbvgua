@@ -1,9 +1,9 @@
 <h2 align="left">Hi there 👋 </h2>
 
-<p> I'm a Pythonista currently building better solutions the open source way</p>
+<!-- <p> I'm a Pythonista currently building better solutions the open source way</p>
 
 
-<!-- <h3 align="left"> ⚒️Languages and Tools: </h3>
+ <h3 align="left"> ⚒️Languages and Tools: </h3>
 
 <p align="left">
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
