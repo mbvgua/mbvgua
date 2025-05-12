@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d2724-5245-41f2-bacd-7b68daa01c31.svg)](https://wakatime.com/@018d2724-5245-41f2-bacd-7b68daa01c31)
 
-I'm a junior developer still trying to figure it out. Excited by bugs and error codes.
-
+I'm a junior developer still trying to figure it out.
+<!-- (In)famously know for smiling as I watch your code break -->
+Passionate about all things *nix and FOSS.
+  
 Let’s connect — always happy to explore new ideas or opportunities!
